@@ -1,6 +1,6 @@
-# DHT Working Group
+# DHT Research Group
 
-> Analytical and development effort to diagnose performance problems within libp2p DHT protocol(s) and, eventually, fix them.
+> Analytical, Research and development effort to diagnose performance problems within libp2p DHT protocol(s) and, eventually, fix them.
 
 ## Responsibilities include
 
