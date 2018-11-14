@@ -21,7 +21,7 @@ To join the issue, feel free to comment on the above issue and/or reach out on `
 ## Relevant projects
 
 - Kademlia implementations: [go-libp2p-kad-dht](https://github.com/libp2p/go-libp2p-kad-dht), [js-libp2p-kad-dht](https://github.com/libp2p/js-libp2p-kad-dht), [rust-libp2p/kad](https://github.com/libp2p/rust-libp2p/tree/master/kad).
-- Coral implementation (extremely early, WIP): [go-libp2p-coral-dht](https://libp2p/go-libp2p-coral-dht).
+- Coral implementation (extremely early, WIP): [go-libp2p-coral-dht](https://github.com/libp2p/go-libp2p-coral-dht).
 - IPTD: [iptb](https://github.com/ipfs/iptb).
 
 ## Event log
